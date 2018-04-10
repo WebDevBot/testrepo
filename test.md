@@ -1,1 +1,1 @@
-ouija_board
+hermann_snellen

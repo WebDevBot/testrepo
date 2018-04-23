@@ -1,1 +1,1 @@
-large_indefinite_amount
+striate_cortex

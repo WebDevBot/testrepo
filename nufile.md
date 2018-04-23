@@ -1,1 +1,1 @@
-acclaim
+editorship

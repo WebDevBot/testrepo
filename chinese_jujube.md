@@ -1,1 +1,1 @@
-striate_cortex
+wagon_wheel

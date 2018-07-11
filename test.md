@@ -1,1 +1,1 @@
-lieutenant
+deoxyguanosine

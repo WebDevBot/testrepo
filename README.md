@@ -1,1 +1,1 @@
-growth_industry
+radiologic_technologist

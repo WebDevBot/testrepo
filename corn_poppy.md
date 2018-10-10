@@ -1,1 +1,1 @@
-doctor_of_philosophy
+perpetual_warrant

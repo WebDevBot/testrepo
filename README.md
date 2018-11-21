@@ -1,1 +1,1 @@
-wild_west_show
+varsity

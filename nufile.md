@@ -1,1 +1,1 @@
-vigna_sesquipedalis
+strymon_melinus

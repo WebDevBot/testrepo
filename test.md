@@ -1,1 +1,1 @@
-alnus_incana
+bedframe

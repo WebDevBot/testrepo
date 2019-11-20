@@ -1,1 +1,1 @@
-yosemite_falls
+walking
